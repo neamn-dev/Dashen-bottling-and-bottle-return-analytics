@@ -1,0 +1,6 @@
+Quantity,Raw_Value,Resolution_Uncertainty,Sampling_SE,Justified_Report_Sampling,Justified_Report_Resolution
+Mean (All 10 readings),329.3800 mL,±0.0091 mL,±0.6003 mL,329.4 ± 0.6 mL,329.380 ± 0.009 mL
+Median (All 10 readings),329.9500 mL,±0.0204 mL,±0.1500 mL,329.9 ± 0.2 mL,329.95 ± 0.02 mL
+Sample Std Dev (All 10 readings),1.9775 mL,±0.0096 mL,±0.5800 mL,1.98 ± 0.58 mL,1.978 ± 0.010 mL
+Mean (Excluding 323.8 mL),330.0000 mL,±0.0096 mL,±0.0870 mL,330.00 ± 0.09 mL,330.000 ± 0.010 mL
+Sample Std Dev (Excl. 323.8),0.2739 mL,±0.0080 mL,±0.0520 mL,0.27 ± 0.05 mL,0.274 ± 0.008 mL
