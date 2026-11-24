@@ -179,16 +179,3 @@ pip install numpy pandas matplotlib scipy reportlab nbformat nbconvert
    python scratch/generate_report_pdf.py
    python scratch/generate_slides_pdf.py
    ```
-
----
-
-## 6. Project Compliance Sign-Off
-
-- [x] **Restart & Run All executed without errors:** 0 errors across 64 notebook cells.
-- [x] **All three Chapter 2 methods meet $|f(x_k)| < 10^{-6}$:** False Position ($8.97 \times 10^{-7}$), Secant ($1.07 \times 10^{-8}$), Fixed Point ($1.52 \times 10^{-7}$).
-- [x] **Chapter 2 sensitivity sweep:** 21/21 points converged unconditionally.
-- [x] **Chapter 3 Jacobi convergence:** $\|A\mathbf{x} - \mathbf{b}\|_\infty = 1.49 \times 10^{-5}$ on original unpermuted system.
-- [x] **All figures labelled with axes, units, and titles:** 7 publication figures + dashboard.
-- [x] **Results export and dashboard pipeline:** `results.csv` drives the summary dashboard.
-- [x] **Decision questions thoroughly answered:** Detailed engineering synthesis provided.
-- [x] **Submission directory structure formatted:** Exact match to requested tree layout.
