@@ -1,0 +1,17 @@
+Chapter,Metric,Value,Unit
+Chapter 1,mean_all_mL,329.38,mL
+Chapter 1,median_all_mL,329.95,mL
+Chapter 1,sample_std_all_mL,1.977540560056013,mL
+Chapter 1,mean_without_323_8_mL,330.0,mL
+Chapter 1,bootstrap_mean_standard_error_mL,0.600278992767454,mL
+Chapter 2,false_position_root,16.993003325199687,speed index
+Chapter 2,secant_root,16.993003240586578,speed index
+Chapter 2,fixed_point_root,16.99300325572928,speed index
+Chapter 2,false_position_residual,8.973187277661054e-07,throughput units
+Chapter 2,secant_residual,1.070577582140686e-08,throughput units
+Chapter 2,fixed_point_residual,1.5179796264419565e-07,throughput units
+Chapter 3,x1_retail_collection,9.070845134351,normalized flow
+Chapter 3,x2_return_warehouse,9.176571191588,normalized flow
+Chapter 3,x3_washing_inspection,8.624033600663001,normalized flow
+Chapter 3,x4_bottling,9.531889857258,normalized flow
+Chapter 3,jacobi_original_system_residual_inf,1.489947399591074e-05,residual

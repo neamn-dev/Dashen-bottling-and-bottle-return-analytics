@@ -1,0 +1,4 @@
+Question_ID,Decision_Question,Finding,Operational_Action
+Q1,Does 323.8 mL change process conclusion?,Yes: Inflates std dev 7x (0.27 to 1.98 mL); 23-sigma special-cause event.,Do not delete silently; quarantine and verify via check-weigher mass logs.
+Q2,Most attractive root-finder for repeated controller?,Fixed-Point Iteration (g(v) = v - 0.08 f(v)) with contraction |g'| = 0.1415.,Acts as discrete integral control; warm-starts in 1-2 steps with zero bracketing overhead.
+Q3,Bottle-return stage with highest modelled load?,Bottling Line (x4 = 9.5319 normalized flow units).,Primary system bottleneck; prioritize for capacity investment and buffer sizing.
